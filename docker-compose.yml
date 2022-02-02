@@ -5,3 +5,4 @@ services:
   image: willybarankin/web
   ports:
    - 8081:80
+  build: .
